@@ -109,7 +109,7 @@ Target Audience: HR Administrators and Managers looking for a simple, portable s
 
  ├──data/
 
- │   └──data2.csv      #The persistent data file (Excel viewable) 
+ │   └──data1.csv      #The persistent data file (Excel viewable) 
 
  ├── requirements.txt      #Python dependencies (if any)  
 
